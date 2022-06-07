@@ -1,0 +1,100 @@
+.tituloListagem {
+    margin-left: 20px;
+}
+
+.listaAlunos {
+    margin-left: 20px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cabecTabela {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    text-align: left;
+ }
+
+ th, td {
+    padding: 10px;
+ }
+
+ .tabTituloRa {
+    width: 100px;
+}
+
+.tabTituloNome {
+    width: 400px;
+}
+
+input[type=text] 
+    {
+        display: inline-block;
+        width: 20%;
+        padding: 12px;
+        margin: 8px 0;
+    }
+    
+    
+    
+    input[type=number] 
+    {
+        padding: 12px;
+        width: 50px;
+    }
+    .inclui-container 
+    {
+        margin: 20px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+    .btnSalvar 
+    {
+        background-color: lightblue;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 5px 5px 5px 30px;
+    }
+    .btnCancelar
+    {
+        background-color: gainsboro;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 5px;
+    }
+
+    label 
+    {
+        padding: 10px;
+    }
+    .tituloCadastro 
+    {
+        margin-left: 30px;
+    }
+    .btnSalvar 
+    {
+        background-color: lightblue;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 5px 5px 5px 30px;
+    }
+    .btnCancelar
+    {
+        background-color: gainsboro;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 5px;
+    }
+    label 
+    {
+        padding: 10px;
+    }
